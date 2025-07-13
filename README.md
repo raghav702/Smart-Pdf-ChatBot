@@ -73,7 +73,7 @@ pip install -r requirements.txt
 ### 4. Configure API Keys
 Create a `.env` file with the following:
 ```env
-HF_TOKEN=your_huggingface_token
+GROQ_API_KEY=your_huggingface_token
 ```
 > 🔐 These are required for accessing LLMs and embedding services.
 
