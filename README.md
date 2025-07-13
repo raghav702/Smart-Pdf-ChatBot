@@ -55,8 +55,8 @@ Want to test your understanding? This mode:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/pdf-rag-chatbot.git
-cd pdf-rag-chatbot
+git clone https://github.com/raghav702/Smart-Pdf-ChatBot.git
+cd Smart-Pdf-ChatBot.git
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -73,7 +73,6 @@ pip install -r requirements.txt
 ### 4. Configure API Keys
 Create a `.env` file with the following:
 ```env
-GROQ_API_KEY=your_groq_api_key
 HF_TOKEN=your_huggingface_token
 ```
 > 🔐 These are required for accessing LLMs and embedding services.
@@ -121,7 +120,6 @@ Open the URL provided in your terminal to start interacting with the chatbot.
 
 ```env
 GROQ_API_KEY=your_groq_api_key_here
-HF_TOKEN=your_huggingface_token_here
 ```
 
 ---
