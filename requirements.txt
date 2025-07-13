@@ -1,0 +1,16 @@
+langchain
+chromadb
+pypdf
+pytest
+streamlit
+pypdf2
+
+PyMuPDF
+sentence-transformers
+faiss-cpu
+tiktoken
+langchain_community
+langchain_huggingface
+pdfplumber
+groq
+langchain-groq
