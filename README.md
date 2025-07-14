@@ -152,7 +152,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 <img width="724" height="858" alt="image" src="https://github.com/user-attachments/assets/ca68624c-fce7-4775-9c94-eda67fd084b3" />
 
-## Document Summary
+## Choosing Preffered Mode
 
 <img width="771" height="300" alt="image" src="https://github.com/user-attachments/assets/c3bfb5d9-a171-4844-b63d-388197fda902" />
 
@@ -162,7 +162,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ## Evaluation of answers (Question - 1)
 
-<img width="729" height="733" alt="image" src="https://github.com/user-attachments/assets/a6621917-8654-45b2-acff-0a480b04cd4e" />
+<img width="728" height="548" alt="image" src="https://github.com/user-attachments/assets/992f06c9-6a04-42e6-ba80-18d664dccd9a" />
 
 ## Evaluation of answer (Question - 2)
 
@@ -170,7 +170,8 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ## Evaluation of answer(Question -3)
 
-<img width="728" height="548" alt="image" src="https://github.com/user-attachments/assets/992f06c9-6a04-42e6-ba80-18d664dccd9a" />
+<img width="729" height="733" alt="image" src="https://github.com/user-attachments/assets/a6621917-8654-45b2-acff-0a480b04cd4e" />
+
 
 ## Asking Question and getting Logical answer
 
@@ -180,3 +181,9 @@ GROQ_API_KEY=your_groq_api_key_here
 
 <img width="709" height="696" alt="image" src="https://github.com/user-attachments/assets/cbb0e323-9034-4662-976c-1d880f975621" />
 <img width="667" height="300" alt="image" src="https://github.com/user-attachments/assets/a8fb9a58-6f1f-4703-84a4-7983e30f7b66" />
+
+
+### Raghav Kumar Singh
+### Email- mailrks16@gmail.com
+### GitHub: raghav702
+### © 2025 — Smart Assistant Project
